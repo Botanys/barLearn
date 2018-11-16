@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/barLearn.iml" filepath="$PROJECT_DIR$/barLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningQa.iml" filepath="$PROJECT_DIR$/.idea/modules/learningQa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningQa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/learningQa_main.iml" group="learningQa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningQa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/learningQa_test.iml" group="learningQa" />
+    </modules>
+  </component>
+</project>
