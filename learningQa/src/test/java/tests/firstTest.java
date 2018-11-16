@@ -25,7 +25,7 @@ private WebDriverWait wait;
     driver = new ChromeDriver();
     wait = new WebDriverWait(driver, 10);
     driver.manage().window().fullscreen();
-    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);;
+    driver.manage().timeouts().implicitlyWait(12, TimeUnit.SECONDS);
 
 }
 
